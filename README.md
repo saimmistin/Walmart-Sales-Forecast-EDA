@@ -6,3 +6,13 @@ There are many seasons that sales are significantly higher or lower than average
 
 Purpose:
 My purpose in this project is to build a model which predicts sales of the stores. With this model, Walmart authorities can decide their future plans which is very important for arranging stocks, calculating revenue, and determining whether to make new investments.
+
+Acknowledgments:
+The dataset is taken from Kaggle.
+
+Strategic Plan of Action:
+1)Data Exploration
+2)Exploratory Data Analysis (EDA)
+3)Data Pre-processing
+4)Data Manipulation
+5)Data Visualization
